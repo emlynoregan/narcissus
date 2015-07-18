@@ -6,8 +6,8 @@
 # TODO: Enter your application id below. If you have signed up
 # using cloud.google.com/console use the "project id" for your application
 # id.
-application: enter-real-or-dummy-app-id
 version: 1
+application: narcissus-dev
 runtime: python27
 api_version: 1
 threadsafe: true

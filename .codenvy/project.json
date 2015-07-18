@@ -1,1 +1,1 @@
-{"mixinTypes":[],"builders":{"configs":{}},"runners":{"configs":{}},"description":"Dev app for Narcissus.","type":"GAEPython","attributes":{"language":["python"]}}
+{"mixinTypes":[],"builders":{"configs":{}},"runners":{"configs":{}},"description":"Narcissus development.","type":"GAEPython","attributes":{"language":["python"]}}
